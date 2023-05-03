@@ -1,6 +1,16 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'vue';
+import App from './App.vue';
+import VuePlyr from 'vue-plyr'
+import 'vue-plyr/dist/vue-plyr.css'
 
 import './assets/main.css'
 
-createApp(App).mount('#app')
+import router from "./router"
+
+createApp(App)
+    .use(router)
+    .use(VuePlyr, {
+        plyr: {}
+      })
+    .mount('#app')
+
