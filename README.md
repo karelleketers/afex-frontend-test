@@ -1,29 +1,20 @@
 # Afex-test-frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Este archivo README te guiará a lo largo de la aplicación.
 
-## Recommended IDE Setup
+## Visita la página web
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[Demo](https://afex-frontend-test.web.app/)
 
-## Customize configuration
+## Agrega cualquier video que desees y presiona "Añadir"
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Puedes eliminar el video presionando la cruz en la vista general
 
-```sh
-npm install
-```
+Esto mostrará un cuadro de diálogo de eliminación
 
-### Compile and Hot-Reload for Development
+## Puedes ver los detalles de un video haciendo clic en él
 
-```sh
-npm run dev
-```
+Esto también te permite reproducir el video
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### Siéntete libre de explorar la demo o de navegar por el código aquí. ¡Disfruta!
